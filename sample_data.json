@@ -1,0 +1,37 @@
+
+[
+  {
+    "core_content_id": "1",
+    "core_type_alias": "com_content.article",
+    "core_title": "Benvenuto!",
+    "core_alias": "benvenuto",
+    "core_body": "<p><img style=\"float: right; margin-top: 0px; margin-bottom: 8px; margin-left: 16px; margin-right: 0px;\" title=\"Joomla!\" src=\"images/joomla_logo_black.jpg\" alt=\"Joomla!\" width=\"350\" height=\"71\" />Congratulazioni! Hai un sito Joomla!®. <br />Questa è la versione localizzata in italiano disponibile sul sito <a href=\"http://www.joomla.it\">www.joomla.it</a> dove puoi trovare ulteriori informazioni, guide ed il forum.<br />Joomla!® rende facile la costruzione del tuo sito secondo le tue esigenze ed è molto semplice aggiornarlo e mantenerlo online.<br />Joomla!® è una piattaforma potente e flessible, sia che tu voglia costruire un piccolo sito personale, o un grande portale con centinaia di migliaia di visitatori. Joomla!® è open-source, questo significa che è possibile farlo funzionare nel modo che si desidera.</p><h2>Come iniziare:</h2><p>Iniziare a creare il tuo sito è semplice. Alcune nozioni di base ti saranno utili.<br /><br /><strong>Cos'è un Content Management System?<br /></strong>Un content management system è un software che consente di creare e gestire pagine web in modo semplice, separando la creazione dei contenuti dalla meccanica richiesta per presentarli sul web.<br />In questo sito, i contenuti sono registrati in un database. L'aspetto e la presentazione vengono gestiti dal template. Il software Joomla!® combina il template e i contenuti per la creazione della pagina web.</p><p id=\"system-readmore\"><strong>Sito e Amministrazione<br /></strong>Il sito è separato in due lati. Il lato sito (chiamato anche front end) è ciò che vedono i visitatori del tuo sito. Il lato amministrativo (chiamato anche back end) utilizzato solo da chi gestisce il sito. Puoi accedere all'amministrazione aggiungendo <a href=\"administrator\">/administrator</a> alla fine del nome di dominio (es. http://www.nomedidominio.com/administrator )<br /><br />Effettua il login al lato amministrativo utilizzando Nome utente e Password creati durante l'installazione di Joomla!®.</p>",
+    "core_state": "1",
+    "core_checked_out_time": "",
+    "core_checked_out_user_id": "0",
+    "core_access": "1",
+    "core_params": "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}",
+    "core_featured": "0",
+    "core_metadata": "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}",
+    "core_created_user_id": "716",
+    "core_created_by_alias": "",
+    "core_created_time": "2013-11-16 00:00:00",
+    "core_modified_user_id": "0",
+    "core_modified_time": "0000-00-00 00:00:00",
+    "core_language": "*",
+    "core_publish_up": "2013-11-16 00:00:00",
+    "core_publish_down": "0000-00-00 00:00:00",
+    "core_content_item_id": "1",
+    "asset_id": "62",
+    "core_images": "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}",
+    "core_urls": "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}",
+    "core_hits": "0",
+    "core_version": "1",
+    "core_ordering": "0",
+    "core_metakey": "",
+    "core_metadesc": "",
+    "core_catid": "2",
+    "core_xreference": "",
+    "core_type_id": "1"
+  }
+]
